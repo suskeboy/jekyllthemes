@@ -2,7 +2,7 @@ name: Jekyll Themes
 url: http://matt.harzewski.com
 description: Insert tagline here
 baseurl: king
-permalink: /themes/:title/
+permalink: /king/:title/
 
 gems: [jekyll-paginate]
 
